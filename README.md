@@ -1,5 +1,6 @@
 # LP5DPBO2025C2
-
+# Janji
+Saya Muhammad Radhi Maulana dengan NIM 2311119 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 # Design Program
 ![image](https://github.com/user-attachments/assets/b1e1a7a0-f807-4e7d-8999-28be0e9fc510)
 Penjelasan Design : Menu menjadi inti dari program ini, dan segala proses dijalankan disini. Menu merupakan turunan dari JFrame, dan Menu memiliki banyak hubungan composite dengan Kelas komponen UI lainnya untuk dapat membentuk UI yang dapat ditunjukkan kepada User.
